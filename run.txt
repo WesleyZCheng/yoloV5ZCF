@@ -1,0 +1,1 @@
+python train.py --img 480 --batch 30 --epochs 500 --data rice_train.yaml  --weights D:/ZHY/YOLO/yolov5-master/runs/train/exp/last.pt --device 0
